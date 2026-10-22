@@ -1,0 +1,9 @@
+{
+  "name": "flogger",
+  "version-string": "1.0.1",
+  "description": "A small logging wrapper built on spdlog",
+  "license": "MIT",
+  "dependencies": [
+    "spdlog"
+  ]
+}
