@@ -4,6 +4,7 @@
   "description": "A small logging wrapper built on spdlog",
   "license": "MIT",
   "dependencies": [
-    "spdlog"
+    "spdlog",
+    "gtest"
   ]
 }
